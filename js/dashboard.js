@@ -3,7 +3,7 @@ if (!localStorage.getItem("loggedInUser")) {
     window.location.href = "index.html";
 }
 
-const apiKey = "6c2ce4bef2ae464db8e143101263006";
+const apiKey = "YOUR_WEATHERAPI_KEY";
 const cityInput = document.getElementById("city");
 const searchBtn = document.getElementById("searchBtn");
 
