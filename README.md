@@ -112,11 +112,13 @@ git clone https://github.com/harsehaj8532beaift24-crypto/Weather-Dashboard-Proje
 
 ### 🔐 Login Page
 
-_Add a screenshot of your login page here._
+![Login Page](screenshots/login.png)
 
-### 🌦️ Weather Dashboard
+---
 
-_Add a screenshot of your dashboard here._
+### 🌤️ Weather Dashboard
+
+![Dashboard](screenshots/dashboard.png)
 
 ---
 
